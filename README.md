@@ -13,11 +13,11 @@ Base model is ResNet.
 
 ```bash train.sh <mode> <run_name> <GPU device num>```
 
-## Arguments
+### Arguments
 
 **mode**
-- all (w/AllINC)
-- basic (w/o AllINC)
+- ```all``` (w/AllINC)
+- ```basic``` (w/o AllINC)
 
 **run_name:** The name of the training run. (e.g., training date)
 
